@@ -40,4 +40,4 @@ HALOAI_F7GL is an enterprise-grade grant automation engine with:
 Runs entirely **locally** with:
 ```bash
 git clone https://huggingface.co/meta-llama/Llama-3.1-405B-Q4_K_M
-python inference.py --prompt "Your prompt here"
+python inference.py 
